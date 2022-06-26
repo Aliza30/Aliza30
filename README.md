@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Aliza30
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me aliza302001@gmail.com
-<!---
-Aliza30/Aliza30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PREVIEW
+MARKDOWN
+COPY
+Hi 👋 My name is Aliza Razi
+===========================
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [aliza302001@gmail.com](mailto:aliza302001@gmail.com)
+* 🧠  I'm learning Machine learning
+* 🤝  I'm open to collaborating on web designing and web development
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,7 +38,3 @@ You can click the Preview link to take a look at your changes.
 <a href="http://www.github.com/Aliza30"><img src="https://github-readme-stats.vercel.app/api?username=Aliza30&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Aliza30's GitHub stats" /></a>
 
 <a href="https://github.com/Aliza30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliza30&langs_count=10&title_color=64748b&text_color=64748b&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/AlizaRazi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
