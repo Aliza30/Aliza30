@@ -1,6 +1,4 @@
-PREVIEW
-MARKDOWN
-COPY
+
 Hi 👋 My name is Aliza Razi
 ===========================
 
