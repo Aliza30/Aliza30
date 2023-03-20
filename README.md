@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aliza Razi
+Hi! My name is Aliza Razi
 ==================================================================================================================================
 
 Web Developer, UI/UX and web designer
@@ -34,6 +34,6 @@ As a frontend developer, I am constantly working on projects that challenge my s
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aliza30"><img src="https://github-readme-stats.vercel.app/api?username=Aliza30&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=444e59&text_color=0f172a&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aliza30's GitHub stats" /></a>
+<a href="http://www.github.com/Aliza30"><img src="https://github-readme-stats.vercel.app/api?username=Aliza30&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=facc15&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aliza30's GitHub stats" /></a>
 
-<a href="https://github.com/Aliza30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliza30&langs_count=10&title_color=444e59&text_color=0f172a&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Aliza30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliza30&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
