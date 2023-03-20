@@ -9,7 +9,7 @@ As a frontend developer, I am constantly working on projects that challenge my s
 
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [aliza302001@gmail.com](mailto:aliza302001@gmail.com)
+* ✉️  You can contact me at [contactaliza9@gmail.com](mailto:contactaliza9@gmail.com)
 * 🤝  I'm open to collaborating on web designing and web development.
 
 ### Skills
