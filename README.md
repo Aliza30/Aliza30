@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, UI/UX and web designer
 -------------------------------------
 
-I have a good command on the front end HTML, CSS. and JS; along with that i love to do competitive coding; good in java also have knowledge of c++ & python. Currently working on backend knowledge.
+As a frontend developer, I am constantly working on projects that challenge my skills and push me to learn new technologies. I am always open to learning and contributing to the tech world. Whether it's through attending conferences, participating in online forums, or collaborating with other developers, I believe that there is always something new to discover and share. I strive to create user-friendly interfaces that make people's lives easier and more enjoyable. My passion for technology drives me to continuously improve my skills and stay up-to-date with the latest trends in the industry.
+
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aliza302001@gmail.com](mailto:aliza302001@gmail.com)
-* 🤝  I'm open to collaborating on web designing and web development
+* 🤝  I'm open to collaborating on web designing and web development.
 
 ### Skills
 
