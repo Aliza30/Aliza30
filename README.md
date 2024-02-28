@@ -51,10 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="41" alt="npm logo"  />
 </div>
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aliza30/Aliza30/output/snake.svg" alt="Snake animation" />
 
 ###
 
