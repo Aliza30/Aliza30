@@ -2,13 +2,28 @@
 
 ###
 
-<p align="center">Data Structure and Algorithms | Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS</p>
+<h5 align="center">Data Structure and Algorithms | Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS</h5>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="left">- Programming Languages: Java, JavaScript<br>- Frontend Development: HTML/CSS3, JavaScript, React.js, Tailwind.css, Bootstrap<br>- Tools and Design: Figma, VSCode, Git, GitHub, Vercel, Netlify, CodeSandbox</p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/_aliza.razi_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=gmail.com&logo=gmail&label=contactaliza9@&color=D14836&logoColor=red&labelColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/aliza-r-879a09219" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/aliza_razi93296" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
@@ -34,21 +49,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Aliza30/Aliza30/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/_aliza.razi_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=gmail.com&logo=gmail&label=contactaliza9@&color=D14836&logoColor=red&labelColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/aliza-r-879a09219" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/aliza_razi93296" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aliza30&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliza30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
