@@ -52,6 +52,11 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Aliza30/Aliza30/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <a href="www.linkedin.com/in/aliza-r-879a09219" target="_blank">
