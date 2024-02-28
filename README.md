@@ -4,7 +4,10 @@
 
 <br clear="both">
 <h3 align="center">Data Structure and Algorithms | Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS</h3>
-- **[Resume](https://drive.google.com/file/d/1GL0JdVXjALDwTIiNIXixw5eWzoC7qcqd/view?usp=sharing)
+# My Resume
+
+You can find my resume [here](https://drive.google.com/file/d/1GL0JdVXjALDwTIiNIXixw5eWzoC7qcqd/view?usp=sharing).
+
 
 ##Here are some platforms where you can practice DSA:
 
@@ -12,12 +15,10 @@
 2. [GeeksforGeeks](https://www.geeksforgeeks.org/user/aliza302001/)
 
 ## 💻 Technical Skills:
+
 - **Programming Languages:** Java, JavaScript
 - **Frontend Development:** HTML/CSS3, JavaScript, React.js, Tailwind.css, Bootstrap
 - **Tools and Design:** Figma, VSCode, Git, GitHub, Vercel, Netlify, CodeSandbox
-
-
-
 
 ###
 
