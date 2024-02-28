@@ -4,12 +4,12 @@
 
 <br clear="both">
 <h3 align="center">Data Structure and Algorithms | Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS</h3>
-# My Resume
+## 📝 My Resume:
 
 You can find my resume [here](https://drive.google.com/file/d/1GL0JdVXjALDwTIiNIXixw5eWzoC7qcqd/view?usp=sharing).
 
 
-##Here are some platforms where you can practice DSA:
+## 👩🏼‍💻 Here are some platforms where you can practice DSA:
 
 1. [LeetCode](https://leetcode.com/Aliza_Razi/)
 2. [GeeksforGeeks](https://www.geeksforgeeks.org/user/aliza302001/)
