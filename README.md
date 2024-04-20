@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Data Structure and Algorithms | Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS</h3>
+<h3 align="left">Frontend developer | Java & JavaScript Dev | React.js | Tailwind CSS | Data Structure and Algorithms | </h3>
 
 ## 📝 My Resume:
 
