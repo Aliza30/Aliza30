@@ -11,7 +11,6 @@
 ## 👩🏼‍💻 Here are some platforms where you can practice DSA:
 
 1. [LeetCode](https://leetcode.com/Aliza_Razi/)
-2. [GeeksforGeeks](https://www.geeksforgeeks.org/user/aliza302001/)
 
 ## 💻 Technical Skills:
 
